@@ -36,8 +36,8 @@ I built a **supervised regression model** using Python to predict flight prices 
 - **Best Model**: 
   - **Random Forest Regressor** with GridSearchCV for hyperparameter tuning
 - **Performance**:
-  - RMSE: ~1100
-  - R² Score: ~0.89 (on test data)
+  - RMSE: ~4530.30
+  - R² Score: 0.9602 (on test data)
 
 
 
